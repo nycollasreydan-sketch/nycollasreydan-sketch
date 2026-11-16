@@ -12,4 +12,4 @@ Estudante de Ciência e Tecnologia na UFABC, com ênfase em Computação. Gosto 
 
 **Também:** grupo de Ciência de Dados do Green Team Hacker Club (UFABC) · inglês C1 · procurando estágio em IA ou back-end.
 
-[LinkedIn](https://www.linkedin.com/in/nycollasreydan-6n10ld/)
+[LinkedIn](https://www.linkedin.com/in/nycollasreydan/)
